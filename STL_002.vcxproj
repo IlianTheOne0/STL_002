@@ -31,7 +31,7 @@
     <ClInclude Include="Domain\domain.h" />
     <ClInclude Include="Domain\Entities\Car\car.h" />
     <ClInclude Include="Domain\UseCases\CarDealership\carDealership.h" />
-    <ClInclude Include="Domain\UseCases\CarDealership\IcarDealership.h" />
+    <ClInclude Include="Domain\UseCases\CarDealership\ICarDealership.h" />
     <ClInclude Include="lib.h" />
     <ClInclude Include="Presentation\presentation.h" />
     <ClInclude Include="Presentation\View\view.h" />

@@ -53,7 +53,7 @@
     <ClInclude Include="Domain\Entities\Car\car.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Domain\UseCases\CarDealership\IcarDealership.h">
+    <ClInclude Include="Domain\UseCases\CarDealership\ICarDealership.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Domain\UseCases\CarDealership\carDealership.h">

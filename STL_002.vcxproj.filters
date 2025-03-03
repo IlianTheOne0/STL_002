@@ -41,13 +41,13 @@
     <ClInclude Include="Core\core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Presentation\Tests\test.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Presentation\View\view.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Presentation\presentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Domain\UseCases\functors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

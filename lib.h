@@ -4,6 +4,8 @@
 #include <iostream>
 #include <string>
 #include <Windows.h>
+#include <vector>
+#include <sstream>
 
 using std::cout;
 using std::endl;
@@ -11,6 +13,10 @@ using std::cin;
 
 using std::string;
 using std::to_string;
+
+using std::vector;
+using std::stringstream;
+using std::swap;
 
 #define CREATE_INFO(message) Logger::log(message, InfoADD)
 #define INFO(message) Logger::log(message, Info)
